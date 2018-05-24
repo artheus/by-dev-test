@@ -51,3 +51,9 @@ And also, commit with care!
 Write good commit messages which explains in short what changes are made.
 
 It is a good practice to use Github issues and milestones!
+
+# And what should I do when I finished?
+Whenever you finish, you tell me by sending a pull request to the main repo.
+https://github.com/artheus/by-dev-test
+
+Good luck!
